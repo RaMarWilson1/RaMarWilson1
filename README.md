@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ramar Wilson
+#  Hey, I'm Ra'Mar Wilson
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 I'm a software engineer passionate about building **privacy-first applications** that make a real impact. Currently pursuing my CS degree with minors in Data Science, I'm focused on creating accessible technology—especially in the mental health space.
 
-When I'm not coding, you'll find me on the basketball court, mentoring early undergrads, or planning my move to NYC.
+When I'm not coding, you'll find me on the basketball court, mentoring early undergrads, or watching anime.
 
 ```javascript
 const ramar = {
@@ -154,7 +154,6 @@ Java  ████████████░░░░░░░░  60%
 - **Basketball enthusiast** — always down for a pickup game
 - **Mentor** — helping early undergrads navigate CS and career paths
 - **Former STEM instructor** — taught programming to 100+ students ages 8-14
-- **Thrill seeker** — went skydiving despite a crippling fear of heights
 - **Mental health advocacy** — building tech that actually helps people
 - **NYC bound** — excited to join the tech scene post-grad
 

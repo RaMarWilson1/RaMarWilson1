@@ -179,12 +179,4 @@ I'm always interested in connecting with fellow developers, discussing tech ethi
   
 </div>
 
----
 
-<div align="center">
-  
-  **"Building technology that respects privacy, prioritizes ethics, and actually helps people."**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RaMarWilson1&color=blueviolet&style=flat-square)
-  
-</div>

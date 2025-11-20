@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer passionate about building **privacy-first applications** that make a real impact. Currently pursuing my CS degree with minors in Business Intelligence and Data Science, I'm focused on creating accessible technology—especially in the mental health space.
+I'm a software engineer passionate about building **privacy-first applications** that make a real impact. Currently pursuing my CS degree with minors in Data Science, I'm focused on creating accessible technology—especially in the mental health space.
 
 When I'm not coding, you'll find me on the basketball court, mentoring early undergrads, or planning my move to NYC.
 
@@ -49,34 +49,38 @@ Java  ████████████░░░░░░░░  60%
 
 **Backend & Database**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ReportPortal](https://img.shields.io/badge/-ReportPortal-1D4ED8?style=flat-square)
 
 ---
 
 ## 💼 Experience Highlights
 
-**🔬 Software Engineering Intern** @ Medidata Solutions (Previous)
-- Collaborated with 10+ engineers on architecture decisions for healthcare SaaS platform
-- Improved QA test efficiency by **25%** through automated testing frameworks
-- Enhanced developer productivity by **30%** with optimized CI/CD pipelines
+**🔬 Software Engineering Intern** @ Medidata Solutions (Summer 2025)
+- Collaborated with 10+ engineers and led architecture decisions for React-based internal web app for C-suite executives
+- Integrated Immich's facial recognition system, automating categorization of 10,000+ media assets
+- Designed and deployed 3 interactive dashboards in ReportPortal, improving QA decision-making efficiency by **25%**
+- Authored internal API integration documentation, improving developer productivity by **30%**
 
-**💻 IT Support Specialist** @ Saint Joseph's University  
-- Manage 19,000+ student records across campus systems
-- Provide technical support for university-wide platforms
+**💻 IT Support Technician** @ Saint Joseph's University (Current)
+- Manage Microsoft Azure database with 19,000+ student records
+- Conduct routine maintenance across 300+ workstation computer labs
+- Troubleshoot 20+ hardware/software issues weekly with 24-hour average resolution time
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧠 [One More Day](https://github.com/RaMarWilson1/one-more-day)
+### 🧠 [One More Day](https://onemoredayapp.com)
 *Privacy-first mental health support platform*
 - **Tech**: Next.js, PostgreSQL, Clerk Auth, OpenAI Moderation
 - Serving **45+ users** with **50% retention rate** 
@@ -91,11 +95,13 @@ Java  ████████████░░░░░░░░  60%
 - Team project for Database Management Systems course
 - Real-time status tracking and analytics
 
-### 💼 [Job Tracker](https://github.com/RaMarWilson1/job-tracker)
-*Comprehensive application management system*
-- **Tech**: JavaScript
-- Track applications, interviews, and follow-ups
-- Built to solve my own job search challenges
+### 💼 [Portfolio Website](https://ramarwilson.com)
+*Personal portfolio with interactive design*
+- **Tech**: React, Tailwind CSS, Framer Motion, Vercel
+- Showcases 7+ technical projects with responsive design
+- Interactive scroll-based navigation with smooth animations
+- Achieved 100 Lighthouse performance score
+- Custom domain with continuous deployment pipeline
 
 ### 🎨 [Luxury Tattoo Booking Platform](https://github.com/RaMarWilson1/tattoo)
 *Full-stack e-commerce for tattoo artists*
@@ -103,6 +109,13 @@ Java  ████████████░░░░░░░░  60%
 - Artist portfolio management
 - Appointment scheduling system
 - Payment integration
+
+### 🎵 [Bach-Style Music Generation with AI](https://github.com/RaMarWilson1/GenAI)
+*LSTM neural network trained on Bach compositions*
+- **Tech**: Python, TensorFlow, LSTM, MuseScore, Google Colab
+- Preprocessed and tokenized classical MIDI compositions
+- Generated original baroque-style musical sequences
+- Academic project exploring AI in creative arts
 
 ### 🎵 BeatBus
 *Music collaboration platform (Frontend)*
@@ -140,6 +153,7 @@ Java  ████████████░░░░░░░░  60%
 
 - **Basketball enthusiast** — always down for a pickup game
 - **Mentor** — helping early undergrads navigate CS and career paths
+- **Former STEM instructor** — taught programming to 100+ students ages 8-14
 - **Thrill seeker** — went skydiving despite a crippling fear of heights
 - **Mental health advocacy** — building tech that actually helps people
 - **NYC bound** — excited to join the tech scene post-grad

@@ -117,7 +117,7 @@ Java  ████████████░░░░░░░░  60%
 - Generated original baroque-style musical sequences
 - Academic project exploring AI in creative arts
 
-### 🎵 BeatBus
+### 🎵 [BeatBus](https://github.com/Rich-T-kid/BeatBus)
 *Music collaboration platform (Frontend)*
 - **Tech**: JavaScript, React
 - Connect artists for collaborative projects
@@ -130,9 +130,9 @@ Java  ████████████░░░░░░░░  60%
 
 <div align="center">
   
-  ![RaMar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaMarWilson1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![RaMar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaMarWilson1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaMarWilson1&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaMarWilson1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaMarWilson1&theme=tokyonight&hide_border=true)
 
@@ -168,6 +168,16 @@ I'm always interested in connecting with fellow developers, discussing tech ethi
 - 💼 **LinkedIn**: [ramar-wilson](https://linkedin.com/in/ramar-wilson-181049274)
 - 📧 **Email**: ramarwilson1@gmail.com
 - 📷 **Instagram**: [@ramarwilson1](https://instagram.com/ramarwilson1)
+
+---
+
+<div align="center">
+  
+  **"Building technology that respects privacy, prioritizes ethics, and actually helps people."**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RaMarWilson1&color=blueviolet&style=flat-square)
+  
+</div>
 
 ---
 

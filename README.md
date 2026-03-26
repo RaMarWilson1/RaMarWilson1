@@ -108,6 +108,13 @@ Java                   ████████████░░░░░░░
 - Donation-funded model — zero data monetization
 - Built with an ethics-first approach for vulnerable populations
 
+### 📅 [BookBetter](https://thebookbetter.com)
+*Multi-tenant SaaS booking platform for independent service professionals*
+- **Tech**: Next.js, TypeScript, PostgreSQL, Drizzle ORM, NextAuth v5, Stripe Connect, shadcn/ui, Tailwind CSS
+- Custom subdomain routing (`[slug].thebookbetter.com`) for each professional's booking page
+- Stripe Connect integration with plan-gated features, dashboard analytics, and booking page customization
+- Built for barbers, tattoo artists, massage therapists, and other independent service pros
+
 ### 💼 [Portfolio Website](https://ramarwilson.com)
 *Personal portfolio with interactive design*
 - **Tech**: React, Tailwind CSS, Framer Motion, Vercel

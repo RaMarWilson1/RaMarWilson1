@@ -137,7 +137,7 @@ Java                   ████████████░░░░░░░
 - **Tech**: JavaScript, React
 - Built the complete frontend UI for artists to connect and manage real-time collaborative sessions
 
-### 🎨 [Luxury Tattoo Booking Platform](https://github.com/ramarwilson1/tattoo)
+### 🎨 [Luxury Tattoo Booking Platform](https://luxury-tattoo.vercel.app)
 *Full-stack booking platform for tattoo artists*
 - **Tech**: JavaScript · Artist portfolio management, appointment scheduling, and payment integration
 

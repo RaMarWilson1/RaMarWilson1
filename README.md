@@ -1,4 +1,4 @@
-#  Hey, I'm Ra'Mar Wilson
+# Hey, I'm Ra'Mar Wilson
 
 <div align="center">
   
@@ -20,7 +20,7 @@ I'm a software engineer passionate about building **privacy-first applications**
 
 When I'm not coding, you'll find me on the basketball court, writing poetry, shooting photos, or mentoring early undergrads.
 
-```javascript
+
 const ramar = {
     location: "Philadelphia, PA → NYC 📍",
     education: "Saint Joseph's University, May 2026",
@@ -30,9 +30,7 @@ const ramar = {
     creativeOutlets: ["Poetry ✍️", "Photography 📷", "Newsletter 📬"],
     funFact: "I went skydiving despite being terribly afraid of heights 🪂"
 };
-```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -100,20 +98,28 @@ Java                   ████████████░░░░░░░
 
 ## 🌟 Featured Projects
 
-### 🧠 [One More Day](https://onemoredayapp.com)
-*Privacy-first mental health support platform*
-- **Tech**: Next.js, PostgreSQL, Clerk Auth, Drizzle ORM, OpenAI Moderation, OneSignal
-- Serving **80+ users** with **50% retention rate**
-- COPPA-compliant with comprehensive content moderation and crisis detection
-- Donation-funded model — zero data monetization
-- Built with an ethics-first approach for vulnerable populations
-
 ### 📅 [BookBetter](https://thebookbetter.com)
 *Multi-tenant SaaS booking platform for independent service professionals*
 - **Tech**: Next.js, TypeScript, PostgreSQL, Drizzle ORM, NextAuth v5, Stripe Connect, shadcn/ui, Tailwind CSS
 - Custom subdomain routing (`[slug].thebookbetter.com`) for each professional's booking page
 - Stripe Connect integration with plan-gated features, dashboard analytics, and booking page customization
 - Built for barbers, tattoo artists, massage therapists, and other independent service pros
+
+### 🧠 [One More Day](https://onemoredayapp.com)
+*Privacy-first mental health support platform*
+- **Tech**: Next.js, PostgreSQL, Clerk Auth, Drizzle ORM, OpenAI Moderation, OneSignal
+- Serving **90+ users** with **50% retention rate**
+- COPPA-compliant with comprehensive content moderation and crisis detection
+- Donation-funded model — zero data monetization
+- Built with an ethics-first approach for vulnerable populations
+
+### 🔧 [Goodeal Discount Transmissions](https://www.goodealdiscounttransmissions.com)
+*Production business website for a 40-year-old local auto shop in Hammonton, NJ*
+- **Tech**: Next.js, TypeScript, Tailwind CSS v4, Framer Motion, Vercel
+- Built a production site for a real local business with SEO-optimized architecture
+- JSON-LD structured data, sitemap, Open Graph tags, and local business schema for Google indexing
+- Dark industrial design system built around the shop's real brand identity and photography
+- Deployed and live — indexed in Google Search Console
 
 ### 💼 [Portfolio Website](https://ramarwilson.com)
 *Personal portfolio with interactive design*
